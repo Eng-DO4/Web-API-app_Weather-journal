@@ -10,6 +10,8 @@ This project requires you to create an asynchronous web app that uses Web API an
 - JavaScript
 
 # How to use?
-- open a local server on your PC by opening new terminal then write 'node server' and press Enter.
-- a message is viewed in the terminal click on it with holding ctrl to open the website in the local server.
+- download the zip file of the project in your PC the open the file 'server.js'
+- setup packages from node by opening new terminal then write 'node i express', 'node i body-parser', 'node i cors'
+- open a local server on your PC by typing 'node server' in the terminal and press Enter.
+- a message is viewed in the terminal click on it with holding 'ctrl' in keyboard to open the website in the local server.
 - write the zipCode and your feelings to return data at the bottom of the page after clicking Generate Button.
